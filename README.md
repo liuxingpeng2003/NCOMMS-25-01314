@@ -1,1 +1,1 @@
-This is the core code of the paper titled "The innovator's balance between academic social capital and research autonomy", which consists of two parts: constructing the mixed network collection and calculating the assortativity coefficient of the mixed networks.
+This is the core code of the paper "The innovator's balance between academic social capital and research autonomy", which consists of two parts: constructing the mixed network collection and calculating the assortativity coefficient of the mixed networks.
